@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_Service.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_Service.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_AddRoom.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_AddRoom.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Service.Designer.cs",
+              "DocumentMoniker": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_Service.Designer.cs",
+              "RelativeDocumentMoniker": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_Service.Designer.cs",
+              "ToolTip": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_Service.Designer.cs",
+              "RelativeToolTip": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_Service.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:38:16.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.Designer.cs",
+              "ToolTip": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.Designer.cs",
+              "RelativeToolTip": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:36:49.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.cs",
+              "RelativeDocumentMoniker": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.cs",
+              "ToolTip": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.cs",
+              "RelativeToolTip": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\Login.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:36:47.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_AddRoom.Designer.cs",
+              "DocumentMoniker": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_AddRoom.Designer.cs",
+              "RelativeDocumentMoniker": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_AddRoom.Designer.cs",
+              "ToolTip": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_AddRoom.Designer.cs",
+              "RelativeToolTip": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_AddRoom.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:36:36.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_CustomerDetail.cs",
+              "DocumentMoniker": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.cs",
+              "RelativeDocumentMoniker": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.cs",
+              "ToolTip": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.cs",
+              "RelativeToolTip": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:36:29.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_CustomerDetail.Designer.cs",
+              "DocumentMoniker": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.Designer.cs",
+              "RelativeDocumentMoniker": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.Designer.cs",
+              "ToolTip": "D:\\doan1themservice\\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\\QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.Designer.cs",
+              "RelativeToolTip": "QLKS\\ctQuanLyKhachSan\\ctQuanLyKhachSan\\All User Control\\UC_CustomerDetail.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:35:59.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 522,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

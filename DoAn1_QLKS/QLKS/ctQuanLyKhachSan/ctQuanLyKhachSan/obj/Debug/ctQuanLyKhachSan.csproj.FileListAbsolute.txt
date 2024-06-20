@@ -1,0 +1,211 @@
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe.config
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.pdb
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Properties.Resources.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.GenerateResource.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLy.BDC08DD2.Up2Date
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.pdb
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Login.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.FormMain.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel.mdf
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel_log.ldf
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Home.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerDetail.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Employee.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Service.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.Uc_CheckOut.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_TraKS.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel.mdf
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel_log.ldf
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe.config
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.pdb
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.Uc_CheckOut.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerDetail.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Employee.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Home.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Service.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_TraKS.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Login.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.FormMain.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Properties.Resources.resources
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.GenerateResource.cache
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLy.BDC08DD2.Up2Date
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe
+D:\Daihoc\ky 6\doan1\QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.pdb
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel.mdf
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel_log.ldf
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe.config
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.pdb
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.Uc_CheckOut.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerDetail.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Employee.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Home.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Service.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_TraKS.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Login.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.FormMain.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Properties.Resources.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.GenerateResource.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLy.BDC08DD2.Up2Date
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\QLKS_themservice\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.pdb
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel.mdf
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel_log.ldf
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe.config
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.pdb
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.Uc_CheckOut.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerDetail.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Employee.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Home.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Service.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_TraKS.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Login.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.FormMain.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Properties.Resources.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.GenerateResource.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLy.BDC08DD2.Up2Date
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Toi_Da_Kiet_Suc_Roi\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.pdb
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel.mdf
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQuanLyHotel_log.ldf
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe.config
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.pdb
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.Uc_CheckOut.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerDetail.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Employee.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Home.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Service.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_TraKS.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Login.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.FormMain.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Properties.Resources.resources
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.GenerateResource.cache
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLy.BDC08DD2.Up2Date
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.pdb
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.Core.Extensions.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.Interfaces.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.System.Drawing.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Buffers.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.ComponentModel.Annotations.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Memory.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Numerics.Vectors.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.xml
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.Core.Extensions.xml
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Buffers.xml
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Memory.xml
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Numerics.Vectors.xml
+D:\doan1themservice\Dung_Ai_Co_Cau_Hoi_Gi_Nua_Nhe\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\bin\Debug\dbQLKS.mdf
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\bin\Debug\dbQLKS_log.ldf
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQLKS.mdf
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\dbQLKS_log.ldf
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.Core.Extensions.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.xml
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.Core.Extensions.xml
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe.config
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.Uc_CheckOut.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerDetail.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Employee.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Home.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Service.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_TraKS.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Login.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.FormMain.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe.manifest
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.application
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLy.BDC08DD2.Up2Date
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe
+C:\Users\PC\OneDrive\Máy tính\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.pdb
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\bin\Debug\dbQLKS.mdf
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\bin\Debug\dbQLKS_log.ldf
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe.config
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe.manifest
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.application
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.exe
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\ctQuanLyKhachSan.pdb
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.dll
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Buffers.dll
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Memory.dll
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Numerics.Vectors.dll
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.xml
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\EPPlus.Core.Extensions.xml
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe.config
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.Uc_CheckOut.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerDetail.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Employee.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Home.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_Service.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.All_User_Control.UC_TraKS.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Login.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.FormMain.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.Properties.Resources.resources
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.GenerateResource.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe.manifest
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.application
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLy.BDC08DD2.Up2Date
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.exe
+D:\TAI_LIEU_KI_2_NAM_3\DO_AN_1\Nhom5_QuanLyKhachSan_DHTI15A9HN\DoAn1_QLKS\QLKS\ctQuanLyKhachSan\ctQuanLyKhachSan\obj\Debug\ctQuanLyKhachSan.pdb
